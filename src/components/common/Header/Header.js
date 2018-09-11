@@ -9,7 +9,7 @@ const Header = () => (
   <header className={cx('header')}>
     <div className={cx('header-content')}>
       <div className={cx('brand')}>
-        <Link to="/">reactblog</Link>
+        <Link to="/">KimSeungWon blog</Link>
       </div>
       <div className={cx('right')}>
         오른쪽
